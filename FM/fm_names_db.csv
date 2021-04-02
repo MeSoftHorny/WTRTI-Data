@@ -214,6 +214,7 @@ f-104s;f_104s
 f-4c;f-4c
 f-4e;f-4e
 f-4ej;f-4ej
+f-4f;f-4f
 f-4k;f-4k
 f-4m_fgr2;f-4m_fgr2
 f-5a_china;f_5a
@@ -636,7 +637,7 @@ md_460_yt_cup_2019;md_460
 me-163b-0;me-163b-0
 me-163b;me-163b
 me-262a-1a;me-262a-1a
-me-262a-1a_early;me-262a-1a
+me-262a-1a_early;me-262a-1a_early
 me-262a-1a_u4;me-262a-1a_u4
 me-262a-1b;me-262a-1b
 me-262a-2a;me-262a-2a
@@ -983,6 +984,14 @@ tiger_had_france;tiger_had_france
 tiger_hap_france;tiger_hap_france
 tiger_uht;tiger_uht
 tis_ma;tis_ma
+toon_f13t_2s;f13t_2s
+toon_mb_3;toon_mb_3
+toon_panthera;toon_pantera
+toon_pbl_161;toon_pbl_161
+toon_tornado;tornado
+toon_x_bee;x_bee
+toon_yk_27;toon_yk_27
+toon_yk_37;toon_yk_37
 tu-2;tu-2
 tu-2_early;tu-2_early
 tu-2_postwar;tu-2_postwar
@@ -996,6 +1005,8 @@ tu_4_killstreak;tu_4
 typhoon_mk1a;typhoon_mk1a
 typhoon_mk1b;typhoon_mk1b
 typhoon_mk1b_late;typhoon_mk1b_late
+ucav_assault;ucav_assault
+ucav_scout;ucav_scout
 uh_1b;uh_1b
 uh_1b_japan;uh_1b
 uh_1c;uh_1c
