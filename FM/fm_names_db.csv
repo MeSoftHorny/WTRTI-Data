@@ -102,6 +102,7 @@ bf-109g-2;bf-109g-2
 bf-109g-2_hungary;bf-109g-2_romania
 bf-109g-2_romania;bf-109g-2_romania
 bf-109g-6;bf-109g-6
+bf-109g-6_finland;bf-109g-6
 bf-109k-4;bf-109k-4
 bf-109z;bf-109z
 bf-110c-4;bf-110c-7
@@ -165,6 +166,7 @@ db_3a;db_3a
 db_3a_china;db_3a
 db_3b;db_3b
 db_7;db_7
+dh_110_sea_vixen;dh_110
 douglas_ad_2;douglas_ad_2
 douglas_ad_4;douglas_ad_4
 douglas_ad_4_france;douglas_ad_4_france
@@ -215,9 +217,12 @@ f-4c;f-4c
 f-4e;f-4e
 f-4ej;f-4ej
 f-4f;f-4f
+f-4f_late;f-4f
 f-4k;f-4k
 f-4m_fgr2;f-4m_fgr2
 f-5a_china;f_5a
+f-5c;f_5a
+f-5e;f_5e
 f-80;f-80
 f-80a;f-80a
 f-82e;f-82e
@@ -514,6 +519,7 @@ ju-87r-2_italy;ju-87r-2
 ju-88a-1;ju-88a-1
 ju-88a-4;ju-88a-4
 ju-88c-6;ju-88c-6
+j_7e;j_7e
 j_7_mk2;j_7_mk2
 ka_29;ka_29
 ka_50;ka_50
@@ -631,6 +637,7 @@ md_450b_barougan;md_450b_barougan
 md_450b_ouragan;md_450b_ouragan
 md_452_mystere_2a;md_452_mystere_2a
 md_452_mystere_2c_preproduction;md_452_mystere_2c_preproduction
+md_454_mystere_4a;md_454_mystere_4a
 md_460;md_460
 md_460_usa;md_460
 md_460_yt_cup_2019;md_460
@@ -682,6 +689,7 @@ mig-9;mig-9
 mig-9_china;mig-9
 mig-9_late_china;mig-9_ussr
 mig-9_ussr;mig-9_ussr
+mig_23m;mig_23m
 mig_3u;mig_3_series_1_15
 mig_3_series_1_15;mig_3_series_1_15
 mig_3_series_1_15_bk_pod;mig_3_series_1_15_bk_pod
@@ -720,7 +728,7 @@ p-26a_33;p-26a_33
 p-26a_34;p-26a_34
 p-26a_34_m2;p-26a_34_m2
 p-26a_35;p-26a_35
-p-26b_35;p-26a_35
+p-26b_35;p-26b_35
 p-36a;p-36a
 p-36a_brown;p-36a
 p-36a_rasmussen;p-36a
@@ -738,6 +746,7 @@ p-39k_1;p-39k_1
 p-39n;p-39n
 p-39n_su;p-39n_su
 p-39q_15;p-39q_15
+p-39q_25;p-39q_25
 p-39q_25_france;p-39q_25
 p-39q_5;p-39q_5
 p-400;p-400
@@ -768,6 +777,7 @@ p-47n-15;p-47n-15
 p-51a_tl;p-51a_tl
 p-51b;p-51b
 p-51c-10-nt;p-51c-10-nt
+p-51c-11-nt_japan;p-51c-10-nt
 p-51d-10;p-51d-10
 p-51d-20-na;p-51d-20-na
 p-51d-20-na_j26;p-51d-20-na
@@ -868,6 +878,7 @@ saab_j35d;saab_j35d
 saab_sk60b;saab_sk60b
 saab_t18b_1;saab_t18b_1
 saab_t18b_2;saab_t18b_2
+sagittario_2;sagittario_2
 sa_313b;sa_313b
 sa_313b_france;sa_313b
 sa_316b;sa_316b
@@ -957,6 +968,7 @@ su-7b;su-7b
 su-7bkl;su-7bkl
 su-7bkl_china_killstreak;su-7bkl
 su-7bkl_killstreak;su-7bkl
+su-7bmk;su-7bmk
 su-9;su-9
 sunderland_mk3a;sunderland_mk3a
 sunderland_mk5;sunderland_mk5
@@ -985,14 +997,6 @@ tiger_had_france;tiger_had_france
 tiger_hap_france;tiger_hap_france
 tiger_uht;tiger_uht
 tis_ma;tis_ma
-toon_f13t_2s;f13t_2s
-toon_mb_3;mb_3
-toon_panthera;toon_pantera
-toon_pbl_161;toon_pbl_161
-toon_tornado;tornado
-toon_x_bee;x_bee
-toon_yk_27;toon_yk_27
-toon_yk_37;toon_yk_37
 tu-2;tu-2
 tu-2_early;tu-2_early
 tu-2_postwar;tu-2_postwar
@@ -1006,8 +1010,6 @@ tu_4_killstreak;tu_4
 typhoon_mk1a;typhoon_mk1a
 typhoon_mk1b;typhoon_mk1b
 typhoon_mk1b_late;typhoon_mk1b_late
-ucav_assault;ucav_assault
-ucav_scout;ucav_scout
 uh_1b;uh_1b
 uh_1b_japan;uh_1b
 uh_1c;uh_1c
@@ -1044,6 +1046,7 @@ yak-1b;yak-1b
 yak-1b_luftwaffe;yak-1b
 yak-1_early;yak-1_early
 yak-23;yak-23
+yak-28b;yak-28b
 yak-3;yak-3
 yak-30d;yak-30d
 yak-38;yak-38
