@@ -55,6 +55,7 @@ a_129_cbt;a_129_cbt
 a_29_hudson;a_29_hudson
 a_4b;a_4b
 a_4e_early;a_4e_early
+a_5c;a_5c
 a_7d;a_7d
 b-17e;b-17e
 b-17e_japan;b-17e
@@ -128,6 +129,7 @@ br_693_ab2;br_693_ab2
 btd-1;btd-1
 buccaneer_s1;buccaneer_s1
 buccaneer_s2;buccaneer_s2
+bv-138c-1;bv-138c-1
 bv-238;bv-238
 b_10b;b_10b
 b_18a;b_18a
@@ -213,11 +215,13 @@ f-104a_china;f_104a
 f-104c;f_104c
 f-104g;f_104g
 f-104g_china;f_104g
+f-104g_italy;f_104g_italy
 f-104j;f_104j
 f-104s;f_104s
 f-4c;f-4c
 f-4e;f-4e
 f-4ej;f-4ej
+f-4ej_kai;f-4ej
 f-4f;f-4f
 f-4f_late;f-4f
 f-4k;f-4k
@@ -257,6 +261,8 @@ f-89b;f-89b
 f-89c_30mm;f-89b
 f-89c_rocket;f-89b
 f-89d;f-89d
+f-8e;f-8e
+f-8e_fn;f-8e_fn
 f1;f1
 f11f_1_late;f11f_1_late
 f1m2;f1m2
@@ -692,6 +698,7 @@ mig-9_china;mig-9
 mig-9_late_china;mig-9_ussr
 mig-9_ussr;mig-9_ussr
 mig_23m;mig_23m
+mig_27m;mig_27m
 mig_3u;mig_3_series_1_15
 mig_3_series_1_15;mig_3_series_1_15
 mig_3_series_1_15_bk_pod;mig_3_series_1_15_bk_pod
@@ -876,7 +883,9 @@ saab_j29b;saab_j29b
 saab_j29d;saab_j29d
 saab_j29f;saab_j29f
 saab_j32b;saab_j32b
+saab_j35a;saab_j35a
 saab_j35d;saab_j35d
+saab_ja37;saab_ja37
 saab_sk60b;saab_sk60b
 saab_t18b_1;saab_t18b_1
 saab_t18b_2;saab_t18b_2
@@ -910,7 +919,7 @@ sea_fury_fb11;sea_fury_fb11
 sea_hawk_fga6;sea_hawk_fga6
 sea_hawk_mk100;sea_hawk_fga6
 sea_venom_faw20;sea_venom_faw20
-shackleton_mr_mk_1;shackleton_mr_mk_1
+shackleton_mr_mk_2;shackleton_mr_mk_2
 sm_79_1936;sm_79_1936
 sm_79_1936_italy;sm_79_1936
 sm_79_1937;sm_79_1937
@@ -999,6 +1008,7 @@ tiger_had_france;tiger_had_france
 tiger_hap_france;tiger_hap_france
 tiger_uht;tiger_uht
 tis_ma;tis_ma
+tu-1;tu-1
 tu-2;tu-2
 tu-2_early;tu-2_early
 tu-2_postwar;tu-2_postwar
@@ -1042,6 +1052,7 @@ xa_38;xa_38
 xf5f;xf5f
 xp-50;xp-50
 xp-55;xp-55
+yah_64;yah_64
 yak-15;yak-15
 yak-15_early;yak-15
 yak-17;yak-17
