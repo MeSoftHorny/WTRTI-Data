@@ -55,8 +55,10 @@ a_129_cbt;a_129_cbt;helicopter
 a_29_hudson;a_29_hudson;bomber
 a_4b;a_4b;strike
 a_4e_early;a_4e_early;strike
+a_4e_late_iaf;a_4e_late_iaf;strike
 a_5c;a_5c;strike
 a_7d;a_7d;strike
+a_7e;a_7e;strike
 b-17e;b-17e;bomber
 b-17e_japan;b-17e;bomber
 b-17e_late;b-17e_late;bomber
@@ -174,6 +176,7 @@ db_7;db_7;bomber
 dh_110_sea_vixen;dh_110;fighter
 douglas_ad_2;douglas_ad_2;strike
 douglas_ad_4;douglas_ad_4;strike
+douglas_ad_4na_france;douglas_ad_4na_france;strike
 douglas_ad_4_france;douglas_ad_4_france;strike
 douglas_ad_4_test;douglas_ad_4;strike
 do_17e_1;do_17e_1;bomber
@@ -513,6 +516,7 @@ jaguar_a_sweden_killstreak;jaguar_a;strike
 jaguar_a_uk_killstreak;jaguar_a;strike
 jaguar_a_usa_killstreak;jaguar_a;strike
 jaguar_gr1;jaguar_gr1;strike
+jaguar_gr1a;jaguar_gr1a;strike
 javelin_fmk9;javelin_fmk9;fighter
 ju-188a-2;ju-188a-2;bomber
 ju-288c;ju-288c;bomber
@@ -691,15 +695,18 @@ mig-19j_6a;mig-19j_6a;fighter
 mig-19pt;mig-19;fighter
 mig-19s;mig-19s;fighter
 mig-21_bis;mig-21_bis;fighter
+mig-21_bis_sau;mig-21_bis;fighter
 mig-21_f13;mig-21_f13;fighter
 mig-21_mf;mig-21_mf;fighter
 mig-21_pfm;mig-21_pfm;fighter
 mig-21_smt;mig-21_smt;fighter
+mig-21_sps_k;mig-21_pfm;fighter
 mig-9;mig-9;fighter
 mig-9_china;mig-9;fighter
 mig-9_late_china;mig-9_ussr;fighter
 mig-9_ussr;mig-9_ussr;fighter
 mig_23m;mig_23m;fighter
+mig_23mld;mig_23mld;fighter
 mig_27m;mig_27m;fighter
 mig_3u;mig_3_series_1_15;fighter
 mig_3_series_1_15;mig_3_series_1_15;fighter
@@ -716,6 +723,7 @@ mi_24p_german;mi_24p_german;helicopter
 mi_24p_german_hfs80;mi_24p_german;helicopter
 mi_24v;mi_24v;helicopter
 mi_28n;mi_28n;helicopter
+mi_28nm;mi_28nm;helicopter
 mi_35m;mi_35m;helicopter
 mi_4av;mi_4av;helicopter
 morko_morane;morko_morane;fighter
@@ -871,6 +879,7 @@ saab_105oe;saab_105oe;strike
 saab_a21a_3;saab_j21a_1;fighter
 saab_a21rb;saab_a21rb;fighter
 saab_a32a;saab_a32a;strike
+saab_aj37;saab_aj37;strike
 saab_b17a;saab_b17a;bomber
 saab_b17b;saab_b17b;bomber
 saab_b17bs;saab_b17bs;bomber
@@ -955,6 +964,7 @@ spitfire_ix_plagis;spitfire_ix;fighter
 spitfire_ix_tutorial;spitfire_ix;fighter
 spitfire_ix_usa;spitfire_ix;fighter
 spitfire_ix_ussr;spitfire_ix;fighter
+spitfire_lf_mk9e_weisman;spitfire_ix;fighter
 spitfire_mk1;spitfire_mk1;fighter
 spitfire_mk14c;spitfire_mk14c;fighter
 spitfire_mk14e;spitfire_mk14e;fighter
@@ -1038,6 +1048,7 @@ venom_fb4;venom_fb4;fighter
 vg_33;vg_33;fighter
 vl_myrsky_2_late;vl_myrsky_2_late;fighter
 v_11g;v_11g;strike
+v_12d;v_12d;strike
 v_156_b1;sb2u-3;bomber
 v_156_f;v_156_f;bomber
 wasp_has_mk1;wasp_has_mk1;helicopter
