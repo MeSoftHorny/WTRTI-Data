@@ -772,6 +772,7 @@ night_fighter_mk_2;boston_mk_1;bomber
 nimrod_mk1;nimrod_mk1;fighter
 nimrod_mk2;nimrod_mk2;fighter
 os2u_1;os2u_1;bomber
+os2u_1_naval;os2u_1;bomber
 os2u_3;os2u_1;bomber
 osprey_mk4;osprey_mk4;bomber
 p-26a_33;p-26a_33;fighter
@@ -1003,7 +1004,7 @@ spitfire_ix_plagis;spitfire_ix;fighter
 spitfire_ix_tutorial;spitfire_ix;fighter
 spitfire_ix_usa;spitfire_ix;fighter
 spitfire_ix_ussr;spitfire_ix;fighter
-spitfire_lf_mk9e_iaf;spitfire_ix;fighter
+spitfire_lf_mk9e_iaf;spitfire_ix_cw;fighter
 spitfire_lf_mk9e_weisman;spitfire_ix;fighter
 spitfire_mk1;spitfire_mk1;fighter
 spitfire_mk14c;spitfire_mk14c;fighter
