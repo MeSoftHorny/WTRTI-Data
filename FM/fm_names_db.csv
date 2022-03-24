@@ -27,6 +27,7 @@ a7m1;a7m1;fighter
 a7m2;a7m2;fighter
 ab_205a_1;ab_205a_1;helicopter
 ah-64d;ah-64d;fighter
+ahs;ahs;helicopter
 ah_1f;ah_1f;helicopter
 ah_1g;ah_1g;helicopter
 ah_1s;ah_1s;helicopter
@@ -35,6 +36,7 @@ ah_1s_late;ah_1s;helicopter
 ah_1z;ah_1z;helicopter
 ah_64a;ah_64a;helicopter
 ah_64a_peten;ah_64a;helicopter
+ah_64a_peten_iaf;ah_64a;helicopter
 ah_64d;ah_64d;helicopter
 ah_64d_japan;ah_64d_japan;helicopter
 ah_mk1;ah_mk1;helicopter
@@ -51,6 +53,8 @@ avenger_mk1;tbf-1c;bomber
 av_8a;av_8a;strike
 av_8c;av_8c;strike
 a_109_eoa2;a_109_eoa2;helicopter
+a_10a_early;a-10a_early;strike
+a_10a_late;a-10a_late;strike
 a_129_a;a_129_int;helicopter
 a_129_cbt;a_129_cbt;helicopter
 a_29_hudson;a_29_hudson;bomber
@@ -153,6 +157,8 @@ b_25j_30;b_25j_20;bomber
 b_25j_30_china;b_25j_20;bomber
 b_25j_30_france;b_25j_20;bomber
 b_25j_30_vvs_ussr;b_25j_20;bomber
+b_26b_c;b_26b_c;bomber
+b_26c_france;b_26b_c;bomber
 b_34;b_34;bomber
 b_48_firecrest;b_48_firecrest;strike
 c-47;c-47;bomber
@@ -231,6 +237,7 @@ f-104g_china;f_104g;fighter
 f-104g_italy;f_104g_italy;fighter
 f-104j;f_104j;fighter
 f-104s;f_104s;fighter
+f-104s_asa;f_104s_asa;fighter
 f-105d;f_105d;strike
 f-4c;f-4c;fighter
 f-4e;f-4e;fighter
@@ -254,6 +261,7 @@ f-84f;f-84f;strike
 f-84f_france;f-84f;strike
 f-84f_germany;f-84f;strike
 f-84f_iaf;f-84f;strike
+f-84f_israel_iaf;f-84f;strike
 f-84f_italy;f-84f;strike
 f-84g;f-84g;strike
 f-84g_china;f-84g;strike
@@ -427,6 +435,10 @@ he_112b_1;he_112b_1;fighter
 he_112b_2;he_112b_2;fighter
 he_112v_5;he_112v_5;fighter
 he_219a_7;he_219a_7;strike
+hkp2;hkp2;helicopter
+hkp3c;hkp3c;helicopter
+hkp9a_cb2;hkp9a_cb2;helicopter
+hkp9a_cb3_fc;hkp9a_cb3_fc;helicopter
 hornet_mk1;hornet_mk1;fighter
 hornet_mk3;hornet_mk3;fighter
 hp52_hampden_mk1_late;hp52_hampden_mk1_late;bomber
@@ -477,7 +489,6 @@ i-16_type5;i-16_type5;fighter
 i-16_type5_1935_china;i-16_type5;fighter
 iar_316b;iar_316b;helicopter
 iar_81c;iar-81c;fighter
-ia_58a_pucara;ia_58a_pucara;strike
 il-10;il-10;strike
 il-10_1946;il-10_1946;strike
 il-10_1946_china;il-10_1946;strike
@@ -549,6 +560,7 @@ ju-88a-4;ju-88a-4;bomber
 ju-88c-6;ju-88c-6;bomber
 j_7e;j_7e;fighter
 j_7_mk2;j_7_mk2;fighter
+j_8b;j_8b;fighter
 ka_29;ka_29;helicopter
 ka_50;ka_50;helicopter
 ka_52;ka_52;helicopter
@@ -683,7 +695,7 @@ me-262a-1a;me-262a-1a;fighter
 me-262a-1a_early;me-262a-1a_early;strike
 me-262a-1a_u4;me-262a-1a_u4;strike
 me-262a-1b;me-262a-1b;fighter
-me-262a-2a;me-262a-2a;fighter
+me-262a-2a;me-262a-2a;strike
 me-262a1_u1;me-262a_1_u1;strike
 me-262c-1a;me-262c-1a;fighter
 me-262c-2b;me-262c-2b;fighter
@@ -732,6 +744,7 @@ mig-9_late_china;mig-9_ussr;fighter
 mig-9_ussr;mig-9_ussr;fighter
 mig_23m;mig_23m;fighter
 mig_23mf_germany;mig_23mf;fighter
+mig_23mla;mig_23mla;fighter
 mig_23mld;mig_23mld;fighter
 mig_27k;mig_27k;fighter
 mig_27m;mig_27m;fighter
@@ -745,12 +758,14 @@ mirage_3c;mirage_3c;fighter
 mirage_3cj;mirage_3c;fighter
 mirage_3e;mirage_3e;fighter
 mirage_5f;mirage_5f;fighter
+mirage_f1c;mirage_f1c;fighter
 mi_24a;mi_24a;helicopter
 mi_24d;mi_24v;helicopter
 mi_24p;mi_24p;helicopter
 mi_24p_german;mi_24p_german;helicopter
 mi_24p_german_hfs80;mi_24p_german;helicopter
 mi_24v;mi_24v;helicopter
+mi_28a_sweden;mi_28a_sweden;helicopter
 mi_28n;mi_28n;helicopter
 mi_28nm;mi_28nm;helicopter
 mi_35m;mi_35m;helicopter
@@ -1040,6 +1055,7 @@ sunderland_mk3a;sunderland_mk3a;bomber
 sunderland_mk5;sunderland_mk5;bomber
 su_17m2;su_17m2;strike
 su_22m3;su_22m3;strike
+su_22um3k;su_22um3k;strike
 su_6_single;su_6_single;strike
 swift_f1;swift_f1;fighter
 swift_f7;swift_f7;fighter
