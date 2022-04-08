@@ -206,6 +206,8 @@ do_217n_2;do_217n_2;bomber
 do_335a_0;do_335a_0;strike
 do_335a_1;do_335a_1;strike
 do_335b_2;do_335b_2;strike
+dragonfly_a;dragonfly;helicopter
+dragonfly_h;dragonfly;helicopter
 dummy_plane;dummy_plane;fighter
 d_371;d_371;fighter
 d_371_hs9;d_371_hs9;fighter
@@ -564,6 +566,7 @@ j_8b;j_8b;fighter
 ka_29;ka_29;helicopter
 ka_50;ka_50;helicopter
 ka_52;ka_52;helicopter
+kfir_c2;kfir_c2;fighter
 kfir_c7;kfir_c7;fighter
 ki-27_otsu;ki-27_otsu;fighter
 ki-27_otsu_china;ki-27_otsu;fighter
