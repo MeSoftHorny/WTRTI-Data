@@ -29,15 +29,20 @@ ab_205a_1;ab_205a_1;helicopter
 ah-64d;ah-64d;fighter
 ahs;ahs;helicopter
 ah_1f;ah_1f;helicopter
+ah_1f_iaf;ah_1f_iaf;helicopter
 ah_1g;ah_1g;helicopter
+ah_1g_iaf;ah_1g_iaf;helicopter
+ah_1q_iaf;ah_1q_iaf;helicopter
 ah_1s;ah_1s;helicopter
 ah_1s_early;ah_1s;helicopter
 ah_1s_late;ah_1s;helicopter
 ah_1z;ah_1z;helicopter
 ah_64a;ah_64a;helicopter
+ah_64a_iaf;ah_64a_iaf;helicopter
 ah_64a_peten;ah_64a;helicopter
 ah_64a_peten_iaf;ah_64a;helicopter
 ah_64d;ah_64d;helicopter
+ah_64d_i_saraph;ah_64d_i_saraph;helicopter
 ah_64d_japan;ah_64d_japan;helicopter
 ah_mk1;ah_mk1;helicopter
 aichi_e13a;aichi_e13a;bomber
@@ -46,6 +51,7 @@ arado-196a-3;arado-196a-3;bomber
 arado-234;arado-234;bomber
 arado-234c-3;arado-234c-3;bomber
 arado-234_hockey;arado-234_hockey;bomber
+ariete;ariete;fighter
 ar_2;ar_2;bomber
 attaker_fb1;attaker_fb1;fighter
 attaker_fb2;attaker_fb1;fighter
@@ -206,8 +212,6 @@ do_217n_2;do_217n_2;bomber
 do_335a_0;do_335a_0;strike
 do_335a_1;do_335a_1;strike
 do_335b_2;do_335b_2;strike
-dragonfly_a;dragonfly;helicopter
-dragonfly_h;dragonfly;helicopter
 dummy_plane;dummy_plane;fighter
 d_371;d_371;fighter
 d_371_hs9;d_371_hs9;fighter
@@ -255,6 +259,7 @@ f-5a;f_5a;fighter
 f-5a_china;f_5a;fighter
 f-5c;f_5a;fighter
 f-5e;f_5e;fighter
+f-5e_aidc;f_5e_aidc;fighter
 f-80;f-80;fighter
 f-80a;f-80a;fighter
 f-82e;f-82e;fighter
@@ -373,6 +378,7 @@ fw-190d-9;fw-190d-9;fighter
 fw-190d-9_ussr;fw-190d-9;fighter
 fw-190f-8;fw-190f-8;strike
 fw_200c_1;fw_200c_1;bomber
+f_14a_early;f_14a_early;fighter
 f_222_2;f_222_2;bomber
 g4m1;g4m1;bomber
 g5n1;g5n1;bomber
@@ -434,6 +440,7 @@ he_100d_1;he_100d_1;fighter
 he_112a_0;he_112a_0;fighter
 he_112b_0;he_112b_0;fighter
 he_112b_1;he_112b_1;fighter
+he_112b_1_italy;he_112b_1;fighter
 he_112b_2;he_112b_2;fighter
 he_112v_5;he_112v_5;fighter
 he_219a_7;he_219a_7;strike
@@ -557,6 +564,7 @@ ju-87g_1;ju-87g_1;strike
 ju-87g_2;ju-87g_2;strike
 ju-87r-2;ju-87r-2;bomber
 ju-87r-2_italy;ju-87r-2;bomber
+ju-87r-2_snake;ju-87r-2;bomber
 ju-88a-1;ju-88a-1;bomber
 ju-88a-4;ju-88a-4;bomber
 ju-88c-6;ju-88c-6;bomber
@@ -655,6 +663,7 @@ la_200_toriy;la_200_toriy;fighter
 leo_451_early;leo_451_early;bomber
 leo_451_late;leo_451_late;bomber
 li-2;li-2;bomber
+lightning_f53;lightning_f6;fighter
 lightning_f6;lightning_f6;fighter
 lincoln_b1;lincoln_b2;bomber
 lincoln_b2;lincoln_b2;bomber
@@ -692,6 +701,7 @@ md_460_saar;md_460_saar;fighter
 md_460_sambad;md_460_sambad;fighter
 md_460_usa;md_460;fighter
 md_460_yt_cup_2019;md_460;fighter
+md_500_tow_late;md_500_tow_late;helicopter
 me-163b-0;me-163b-0;fighter
 me-163b;me-163b;fighter
 me-262a-1a;me-262a-1a;fighter
@@ -727,6 +737,7 @@ mig-15bis_ns23;mig-15;fighter
 mig-15bis_ns23_china;mig-15;fighter
 mig-15_ns23;mig-15_ns23;fighter
 mig-17;mig-17;fighter
+mig-17p_lim_5p;mig-17p_lim_5p;fighter
 mig-17_china;mig-17;fighter
 mig-17_cuba;mig-17;fighter
 mig-17_f5;mig-17f;fighter
@@ -762,6 +773,8 @@ mirage_3cj;mirage_3c;fighter
 mirage_3e;mirage_3e;fighter
 mirage_5f;mirage_5f;fighter
 mirage_f1c;mirage_f1c;fighter
+mirage_f1ct;mirage_f1c;fighter
+mirage_milan;mirage_milan;fighter
 mi_24a;mi_24a;helicopter
 mi_24d;mi_24v;helicopter
 mi_24p;mi_24p;helicopter
@@ -1058,6 +1071,7 @@ su-9;su-9;fighter
 sunderland_mk3a;sunderland_mk3a;bomber
 sunderland_mk5;sunderland_mk5;bomber
 su_17m2;su_17m2;strike
+su_17m4;su_17m4;strike
 su_22m3;su_22m3;strike
 su_22um3k;su_22um3k;strike
 su_6_single;su_6_single;strike
@@ -1085,14 +1099,6 @@ tiger_had_france;tiger_had_france;helicopter
 tiger_hap_france;tiger_hap_france;helicopter
 tiger_uht;tiger_uht;helicopter
 tis_ma;tis_ma;strike
-toon_f13t_2s;toon_f13t_2s;fighter
-toon_mb_3;toon_mb_3;bomber
-toon_panthera;toon_pantera;fighter
-toon_pbl_161;toon_pbl_161;bomber
-toon_tornado;toon_tornado;fighter
-toon_x_bee;toon_x_bee;fighter
-toon_yk_27;toon_yk_27;fighter
-toon_yk_37;toon_yk_37;fighter
 tu-1;tu-1;strike
 tu-2;tu-2;bomber
 tu-2_early;tu-2_early;bomber
@@ -1173,3 +1179,4 @@ yak_2_kabb;yak-2_kabb;strike
 yp-38;yp-38;fighter
 z_1007_bis_serie3;z_1007_bis_serie3;bomber
 z_1007_bis_serie5;z_1007_bis_serie5;bomber
+z_19e;z_19e;helicopter
