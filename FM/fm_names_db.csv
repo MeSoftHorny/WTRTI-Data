@@ -558,6 +558,7 @@ jaguar_a_killstreak;jaguar_a;strike
 jaguar_a_sweden_killstreak;jaguar_a;strike
 jaguar_a_uk_killstreak;jaguar_a;strike
 jaguar_a_usa_killstreak;jaguar_a;strike
+jaguar_e;jaguar_e;strike
 jaguar_gr1;jaguar_gr1;strike
 jaguar_gr1a;jaguar_gr1a;strike
 javelin_fmk9;javelin_fmk9;fighter
@@ -925,6 +926,8 @@ pe-8_m82;pe-8_m82;bomber
 po-2;po-2;bomber
 po-2_nw;po-2_nw;fighter
 po-2_test;po-2;bomber
+po-2m;po-2m;bomber
+po_2op_event;po_2op_event;fighter
 potez_630;potez_630;fighter
 potez_631;potez_631;fighter
 potez_633;potez_633;bomber
