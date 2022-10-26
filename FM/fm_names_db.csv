@@ -30,6 +30,7 @@ a_10a_early;a-10a_early;strike
 a_10a_late;a-10a_late;strike
 a_129_a;a_129_int;helicopter
 a_129_cbt;a_129_cbt;helicopter
+a_20g_30_ussr;a-20g;bomber
 a_29_hudson;a_29_hudson;bomber
 a_4b;a_4b;strike
 a_4e_early;a_4e_early;strike
@@ -53,6 +54,7 @@ ah_1s_late;ah_1s;helicopter
 ah_1z;ah_1z;helicopter
 ah_2_rooivalk;ah_2_rooivalk;helicopter
 ah_64a;ah_64a;helicopter
+ah_64a_greece_usa;ah_64a;helicopter
 ah_64a_iaf;ah_64a_iaf;helicopter
 ah_64a_peten;ah_64a;helicopter
 ah_64a_peten_iaf;ah_64a;helicopter
@@ -102,6 +104,7 @@ b_10b;b_10b;bomber
 b_18a;b_18a;bomber
 b_18a_skeleton_turrets;b_18a;bomber
 b_18a_test;b_18a;bomber
+b_239_finland;b_239_finland;fighter
 b_24d;b_24d;bomber
 b_24d_luftwaffe;b_24d;bomber
 b_24m_china_plaaf;b_24d;bomber
@@ -139,9 +142,11 @@ bf-109g-10;bf-109g-10;fighter
 bf-109g-14;bf-109g-14;fighter
 bf-109g-14as;bf-109g-14as;fighter
 bf-109g-2;bf-109g-2;fighter
+bf-109g-2_finland;bf-109g-2;fighter
 bf-109g-2_hungary;bf-109g-2_romania;fighter
 bf-109g-2_romania;bf-109g-2_romania;fighter
 bf-109g-6;bf-109g-6;fighter
+bf-109g-6_erla_finland;bf-109g-6;fighter
 bf-109g-6_finland;bf-109g-6;fighter
 bf-109k-4;bf-109k-4;fighter
 bf-109z;bf-109z;fighter
@@ -220,6 +225,7 @@ do_217n_2;do_217n_2;fighter
 do_335a_0;do_335a_0;strike
 do_335a_1;do_335a_1;strike
 do_335b_2;do_335b_2;strike
+douglas_a_1h;douglas_a_1h;strike
 douglas_ad_2;douglas_ad_2;strike
 douglas_ad_4;douglas_ad_4;strike
 douglas_ad_4_france;douglas_ad_4_france;strike
@@ -365,6 +371,7 @@ firefly_mk5;firefly_mk5;strike
 fj_4b;fj_4b;strike
 fj_4b_agm_12b;fj_4b;strike
 fokker_d21_mod20;fokker_d21_mod20;fighter
+fokker_d21_serie3_finland;fokker_d21_serie3_finland;fighter
 fury_mk1;fury_mk1;fighter
 fury_mk2;fury_mk2;fighter
 fw-189a-1;fw_189a_1;bomber
@@ -384,6 +391,7 @@ fw-190d-13;fw-190d-13;fighter
 fw-190d-9;fw-190d-9;fighter
 fw-190d-9_ussr;fw-190d-9;fighter
 fw-190f-8;fw-190f-8;strike
+fw_190a_5_u14;fw-190a-5_u14;fighter
 fw_200c_1;fw_200c_1;bomber
 g4m1;g4m1;bomber
 g5n1;g5n1;bomber
@@ -471,12 +479,14 @@ hs-129b-3;hs-129b-3;strike
 hudson_mk_v;hudson_mk_v;bomber
 hudson_mk_v_gear_test;hudson_mk_v;bomber
 hunter_f1;hunter_f1;fighter
+hunter_f50_sweden;hunter_f4_mk50;fighter
 hunter_f6;hunter_f6;fighter
 hunter_f9;hunter_f9;fighter
 hunter_f9_rhodesia;hunter_f9;fighter
 hurricane_mk1;hurricane_mk1;fighter
 hurricane_mk1_late;hurricane_mk1_late;fighter
 hurricane_mk1_late_ep;hurricane_mk1;fighter
+hurricane_mk1_late_finland;hurricane_mk1;fighter
 hurricane_mk1b;hurricane_mk1b;fighter
 hurricane_mk1c;hurricane_mk1c;fighter
 hurricane_mk4;hurricane_mk4;strike
@@ -577,6 +587,7 @@ ju-87r-2_italy;ju-87r-2;fighter
 ju-87r-2_snake;ju-87r-2;fighter
 ju-88a-1;ju-88a-1;bomber
 ju-88a-4;ju-88a-4;bomber
+ju-88a-4_finland;ju-88a-4;bomber
 ju-88c-6;ju-88c-6;fighter
 ka_29;ka_29;helicopter
 ka_50;ka_50;helicopter
@@ -774,6 +785,7 @@ mig-9;mig-9;fighter
 mig-9_china;mig-9;fighter
 mig-9_late_china;mig-9_ussr;fighter
 mig-9_ussr;mig-9_ussr;fighter
+mig_21_bis_finland;mig-21_bis;fighter
 mig_23bn;mig_23bn;strike
 mig_23m;mig_23m;fighter
 mig_23mf_germany;mig_23mf;fighter
@@ -936,6 +948,7 @@ pv_2d;pv_2d;bomber
 pyorremyrsky;pyorremyrsky;fighter
 q_5_early;q_5_early;strike
 q_5a;q_5a;strike
+q_5l;q_5l;strike
 r2y2_kai;r2y2_kai;fighter
 r2y2_v1;r2y2_v1;fighter
 r2y2_v2;r2y2_v2;fighter
@@ -1097,6 +1110,7 @@ swift_f7;swift_f7;fighter
 swordfish_mk1;swordfish_mk1;bomber
 swordfish_mk2;swordfish_mk2;bomber
 t2;t2;fighter
+t2_early;t2_early;fighter
 t_129_atak;t_129_atak;helicopter
 ta-152c;ta-152c;fighter
 ta-152h-1;ta-152h-1;fighter
@@ -1141,6 +1155,7 @@ ucav_mq_1_predator_usa_killstreak;ucav_mq_1_predator;strike
 ucav_orion;ucav_mq_1_predator;strike
 ucav_orion_killstreak;ucav_mq_1_predator;strike
 ucav_recon_micro;ucav_recon_micro;fighter
+ucav_recon_micro_360;ucav_recon_micro;fighter
 ucav_recon_micro_flir;ucav_recon_micro;fighter
 ucav_wing_loong_i;ucav_mq_1_predator;strike
 ucav_wing_loong_i_killstreak;ucav_mq_1_predator;strike
@@ -1154,6 +1169,7 @@ v_12d;v_12d;strike
 v_156_b1;sb2u-3;fighter
 v_156_f;v_156_f;fighter
 vampire_fb5;vampire_fb5;fighter
+vampire_fb52_finland;vampire_fb52a;fighter
 vampire_fb52a_italy;vampire_fb52a;fighter
 vampire_fb5_j28b;vampire_fb52a;fighter
 vb_10_02;vb_10_02;fighter
