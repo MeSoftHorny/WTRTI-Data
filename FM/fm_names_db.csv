@@ -62,6 +62,7 @@ ah_64a_peten_iaf;ah_64a;helicopter
 ah_64d;ah_64d;helicopter
 ah_64d_i_saraph;ah_64d_i_saraph;helicopter
 ah_64d_japan;ah_64d_japan;helicopter
+ah_6m;ah_6m;helicopter
 ah_mk1;ah_mk1;helicopter
 ahs;ahs;helicopter
 aichi_e13a;aichi_e13a;bomber
@@ -232,10 +233,6 @@ douglas_ad_2;douglas_ad_2;strike
 douglas_ad_4;douglas_ad_4;strike
 douglas_ad_4_france;douglas_ad_4_france;strike
 douglas_ad_4na_france;douglas_ad_4na_france;strike
-dragonfly_99_na;dragonfly_99;helicopter
-dragonfly_99_rda;dragonfly_99;helicopter
-dragonfly_a;dragonfly;helicopter
-dragonfly_h;dragonfly;helicopter
 dummy_plane;dummy_plane;fighter
 e7k2;e7k2;bomber
 e8n2;e8n2;bomber
@@ -263,6 +260,7 @@ f-105d;f_105d;strike
 f-4c;f-4c;fighter
 f-4e;f-4e;fighter
 f-4e_iaf;f-4e_iaf;fighter
+f-4e_kurnass_2000;f-4e_iaf;fighter
 f-4ej;f-4ej;fighter
 f-4ej_adtw;f-4ej;fighter
 f-4ej_kai;f-4ej;fighter
@@ -272,6 +270,7 @@ f-4j;f-4j;fighter
 f-4jk;f-4j;fighter
 f-4k;f-4k;fighter
 f-4m_fgr2;f-4m_fgr2;fighter
+f-4s;f-4s;fighter
 f-5a;f_5a;fighter
 f-5a_china;f_5a;fighter
 f-5c;f_5a;fighter
@@ -287,6 +286,7 @@ f-84f_germany;f-84f;strike
 f-84f_iaf;f-84f;strike
 f-84f_israel_iaf;f-84f;strike
 f-84f_italy;f-84f;strike
+f-84g-31-re_china;f-84g;strike
 f-84g;f-84g;strike
 f-84g_china;f-84g;strike
 f-84g_france;f-84g_france;strike
@@ -357,7 +357,9 @@ f_16a_block_10_iaf;f_16a_block_10;fighter
 f_16a_block_15_adf;f_16a_block_15_adf;fighter
 f_16a_block_15_adf_italy;f_16a_block_15_adf_italy;fighter
 f_16a_block_20_mlu;f_16a_block_20_mlu;fighter
+f_16aj;f_16aj;fighter
 f_222_2;f_222_2;bomber
+fairey_3f_mk3b;fairey_3f_mk3b;bomber
 fau-1;fau-1;fighter
 fc_20_bis;fc_20_bis;strike
 ffvs_j22_a;ffvs_j22_a;fighter
@@ -494,6 +496,7 @@ hudson_mk_v;hudson_mk_v;bomber
 hudson_mk_v_gear_test;hudson_mk_v;bomber
 hunter_f1;hunter_f1;fighter
 hunter_f50_sweden;hunter_f4_mk50;fighter
+hunter_f58_switzerland;hunter_f58a;fighter
 hunter_f6;hunter_f6;fighter
 hunter_f9;hunter_f9;fighter
 hunter_f9_rhodesia;hunter_f9;fighter
@@ -515,6 +518,7 @@ i-15_1935;i-15_1935;fighter
 i-15_1935_moscow;i-15_1935_moscow;fighter
 i-15bis;i-15bis;fighter
 i-15bis_china;i-15bis;fighter
+i-15bis_krasnolutsky;i-15bis_krasnolutsky;fighter
 i-16_chung_28;i-16_chung_28;fighter
 i-16_type10;i-16_type10;fighter
 i-16_type10_china;i-16_type10;fighter
@@ -812,6 +816,7 @@ mig_23mla;mig_23mla;fighter
 mig_23mld;mig_23mld;fighter
 mig_27k;mig_27k;fighter
 mig_27m;mig_27m;fighter
+mig_29_9_12_germany;mig_29_9_12_germany;fighter
 mig_29_9_13;mig_29_9_13;fighter
 mig_3_series_1_15;mig_3_series_1_15;fighter
 mig_3_series_1_15_bk_pod;mig_3_series_1_15_bk_pod;fighter
@@ -845,6 +850,7 @@ nesher;mirage_5_nesher;fighter
 night_fighter_mk_2;boston_mk_1;bomber
 nimrod_mk1;nimrod_mk1;fighter
 nimrod_mk2;nimrod_mk2;fighter
+o3u_1;o3u_1;bomber
 os2u_1;os2u_1;bomber
 os2u_1_naval;os2u_1;bomber
 os2u_3;os2u_1;bomber
@@ -858,6 +864,7 @@ p-36a;p-36a;fighter
 p-36a_brown;p-36a;fighter
 p-36a_rasmussen;p-36a;fighter
 p-36c;p-36c;fighter
+p-36c_rb;p-36c;fighter
 p-36g;p-36g;fighter
 p-38e;p-38e;fighter
 p-38g;p-38g;fighter
@@ -894,6 +901,7 @@ p-47d_22_re_france;p-47d_22_re;fighter
 p-47d_23_ra_china_rocaf;p-47d_23_re;fighter
 p-47d_23_re;p-47d_23_re;fighter
 p-47d_30_china;p-47d-28;fighter
+p-47d_30_italy;p-47d-30;fighter
 p-47d_luftwaffe;p-47d;fighter
 p-47d_ussr;p-47d_ussr;fighter
 p-47m-1-re;p-47m-1-re;fighter
@@ -985,6 +993,7 @@ re_2001_serie1_ep;re_2001_serie1;fighter
 re_2002_early;re_2002_early;fighter
 re_2005_serie0;re_2005_serie0;fighter
 ro_43;ro_43;bomber
+ro_44;ro_44;fighter
 ro_57_quadriarma;ro_57_quadriarma;strike
 s_199;s_199;fighter
 s_81_ar125;s_81_ar125;bomber
@@ -1153,6 +1162,7 @@ tiger_had_france;tiger_had_france;helicopter
 tiger_hap_france;tiger_hap_france;helicopter
 tiger_uht;tiger_uht;helicopter
 tis_ma;tis_ma;strike
+tornado_f3;tornado_f3;fighter
 tornado_gr1;tornado_gr1;strike
 tornado_ids_de_assta1;tornado_ids_de_assta1;strike
 tornado_ids_de_mfg;tornado_ids_de_mfg;strike
@@ -1250,6 +1260,7 @@ yak-9t;yak-9t;fighter
 yak-9t_france;yak-9t;fighter
 yak-9u;yak-9u;fighter
 yak-9ut;yak-9ut;fighter
+yak_141;yak_141;fighter
 yak_2_kabb;yak-2_kabb;strike
 yp-38;yp-38;fighter
 z_10;z_10;helicopter
