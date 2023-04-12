@@ -42,6 +42,7 @@ a_5c;a_5c;strike
 a_6e_tram;a_6e_tram;strike
 a_7d;a_7d;strike
 a_7e;a_7e;strike
+a_7k;a_7k;strike
 ab_205a_1;ab_205a_1;helicopter
 ah-64d;ah-64d;fighter
 ah_1f;ah_1f;helicopter
@@ -1181,6 +1182,7 @@ tu_4_killstreak;tu_4;bomber
 typhoon_mk1a;typhoon_mk1a;fighter
 typhoon_mk1b;typhoon_mk1b;fighter
 typhoon_mk1b_late;typhoon_mk1b_late;fighter
+uav_quadcopter;uav_quadcopter;fighter
 ucav_mq_1_predator;ucav_mq_1_predator;strike
 ucav_mq_1_predator_france_killstreak;ucav_mq_1_predator;strike
 ucav_mq_1_predator_germany_killstreak;ucav_mq_1_predator;strike
