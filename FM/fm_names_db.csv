@@ -158,6 +158,7 @@ bf-110c-4;bf-110c-7;strike
 bf-110c-6;bf-110c-6;strike
 bf-110f-2;bf-110f-2;strike
 bf-110g-2;bf-110g-2;strike
+bf2c_1;bf2c_1;fighter
 bf_110g_4;bf-110g-4;strike
 bf_110g_4_hungary;bf-110g-4;strike
 bi;bi;fighter
@@ -353,6 +354,7 @@ f9f-2;f9f-2;fighter
 f9f-5;f9f-5;fighter
 f9f-8;f9f-8;fighter
 f_14a_early;f_14a_early;fighter
+f_14b;f_14b;fighter
 f_16a_block_10;f_16a_block_10;fighter
 f_16a_block_10_iaf;f_16a_block_10;fighter
 f_16a_block_15_adf;f_16a_block_15_adf;fighter
@@ -419,6 +421,7 @@ g_55_serie1_ss0;g_55_serie1_ss0;fighter
 g_55s;g_55s;fighter
 g_56;g_56;fighter
 g_lynx;g_lynx;helicopter
+gl_832;gl_832;fighter
 gladiator_j8a;gladiator_j8a;fighter
 gladiator_j8a_iacobi;gladiator_j8a;fighter
 gladiator_mk1_china;gladiator_mk2;fighter
@@ -579,6 +582,7 @@ j_7_mk2;j_7_mk2;fighter
 j_7d;j_7d;fighter
 j_7e;j_7e;fighter
 j_8b;j_8b;fighter
+j_8f;j_8f;fighter
 jaguar_a;jaguar_a;strike
 jaguar_a_germany_killstreak;jaguar_a;strike
 jaguar_a_iaf_killstreak;jaguar_a;strike
@@ -699,6 +703,7 @@ lagg-i-301;lagg-i-301;fighter
 lagg_gu-37;lagg_gu-37;fighter
 lancaster_mk1;lancaster_mk1;bomber
 lancaster_mk3;lancaster_mk3;bomber
+lancaster_mr7_france;lancaster_mr7_france;bomber
 late_298d;late_298d;bomber
 leo_451_early;leo_451_early;bomber
 leo_451_late;leo_451_late;bomber
@@ -825,6 +830,7 @@ mig_3_series_1_15_no_radio;mig_3_series_1_15;fighter
 mig_3_series_1_15_romania;mig_3_series_1_15;fighter
 mig_3_series_34;mig_3_series_34;fighter
 mig_3u;mig_3_series_1_15;fighter
+mirage_2000_5f;mirage_2000_5f;fighter
 mirage_2000c_s5;mirage_2000c_s5;fighter
 mirage_2000d_r1;mirage_2000d_r1;strike
 mirage_3c;mirage_3c;fighter
@@ -954,6 +960,7 @@ pbm_1;pbm_1;bomber
 pbm_3;pbm_3;bomber
 pby-5;pby-5;bomber
 pby-5a;pby-5a;bomber
+pby-5a_late_france;pby-5a_late_france;bomber
 pby-5a_raf;pby-5a;bomber
 pby-5a_ussr;pby-5a;bomber
 pe-2-1;pe-2-1;bomber
@@ -1011,6 +1018,7 @@ saab_a21a_3;saab_j21a_1;fighter
 saab_a21rb;saab_a21rb;fighter
 saab_a32a;saab_a32a;strike
 saab_aj37;saab_aj37;strike
+saab_ajs37;saab_ajs37;strike
 saab_b17a;saab_b17a;bomber
 saab_b17b;saab_b17b;bomber
 saab_b17bs;saab_b17bs;bomber
@@ -1134,9 +1142,12 @@ su-9;su-9;fighter
 su_17m2;su_17m2;strike
 su_17m4;su_17m4;strike
 su_22m3;su_22m3;strike
+su_22m4;su_22m4;strike
 su_22um3k;su_22um3k;strike
 su_25;su_25;strike
 su_25k;su_25k;strike
+su_25t;su_25t;strike
+su_25tm;su_25tm;strike
 su_6_single;su_6_single;strike
 sunderland_mk3a;sunderland_mk3a;bomber
 sunderland_mk5;sunderland_mk5;bomber
@@ -1164,6 +1175,7 @@ tiger_had_france;tiger_had_france;helicopter
 tiger_hap_france;tiger_hap_france;helicopter
 tiger_uht;tiger_uht;helicopter
 tis_ma;tis_ma;strike
+tornado_adv;tornado_adv;fighter
 tornado_f3;tornado_f3;fighter
 tornado_gr1;tornado_gr1;strike
 tornado_ids_de_assta1;tornado_ids_de_assta1;strike
