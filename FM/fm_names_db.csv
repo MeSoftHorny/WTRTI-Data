@@ -355,6 +355,7 @@ f8u-2;f8u-2;fighter
 f9f-2;f9f-2;fighter
 f9f-5;f9f-5;fighter
 f9f-8;f9f-8;fighter
+f_100f_china;f_100f;fighter
 f_14a_early;f_14a_early;fighter
 f_14b;f_14b;fighter
 f_16a_block_10;f_16a_block_10;fighter
@@ -664,6 +665,8 @@ ki_44_1_ep;ki_44_1;fighter
 ki_44_2_hei;ki_44_2_hei;fighter
 ki_44_2_hei_china;ki_44_2_hei;fighter
 ki_44_2_otsu;ki_44_2_otsu;fighter
+ki_48_2_otsu;ki_48_2_otsu;bomber
+ki_48_2_otsu_event;ki_48_2_otsu;bomber
 ki_61_1a_hei;ki_61_1a_hei;fighter
 ki_61_1a_hei_ep;ki_61_1a_hei;fighter
 ki_61_1a_ko;ki_61_1a_ko;fighter
