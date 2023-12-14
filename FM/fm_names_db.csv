@@ -69,6 +69,7 @@ ah_mk1;ah_mk1;helicopter
 ahs;ahs;helicopter
 aichi_e13a;aichi_e13a;bomber
 am_1_mauler;am-1_mauler;strike
+amx;amx_italy;strike
 ar_2;ar_2;bomber
 arado-196a-3;arado-196a-3;bomber
 arado-196a-5;arado-196a-3;bomber
@@ -360,6 +361,9 @@ f_100f_china;f_100f;fighter
 f_111a;f_111a;strike
 f_14a_early;f_14a_early;fighter
 f_14b;f_14b;fighter
+f_15a;f_15a;fighter
+f_15a_iaf;f_15a;fighter
+f_15j;f_15j;fighter
 f_16a_block_10;f_16a_block_10;fighter
 f_16a_block_10_iaf;f_16a_block_10;fighter
 f_16a_block_15_adf;f_16a_block_15_adf;fighter
@@ -588,6 +592,8 @@ j6b;j6b;fighter
 j6k1;j6k1;fighter
 j7w1;j7w1;fighter
 j8m1;j8m1;fighter
+j9_early;j9_early;fighter
+j_11;j_11;fighter
 j_7_mk2;j_7_mk2;fighter
 j_7d;j_7d;fighter
 j_7e;j_7e;fighter
@@ -855,11 +861,13 @@ mig_3_series_1_15_romania;mig_3_series_1_15;fighter
 mig_3_series_34;mig_3_series_34;fighter
 mig_3u;mig_3_series_1_15;fighter
 mirage_2000_5f;mirage_2000_5f;fighter
+mirage_2000c_s4;mirage_2000c_s5;fighter
 mirage_2000c_s5;mirage_2000c_s5;fighter
 mirage_2000d_r1;mirage_2000d_r1;strike
 mirage_3c;mirage_3c;fighter
 mirage_3cj;mirage_3c;fighter
 mirage_3e;mirage_3e;fighter
+mirage_4000;mirage_4000;fighter
 mirage_5f;mirage_5f;fighter
 mirage_f1c;mirage_f1c;fighter
 mirage_f1c_200;mirage_f1c_200;fighter
@@ -1065,6 +1073,8 @@ saab_j35d;saab_j35d;fighter
 saab_j35xs;saab_j35xs;fighter
 saab_ja37;saab_ja37;fighter
 saab_ja37d;saab_ja37;fighter
+saab_jas39a;saab_jas39a;fighter
+saab_jas39c_south_africa;saab_jas39c;fighter
 saab_sk60b;saab_sk60b;strike
 saab_t18b_1;saab_t18b_1;bomber
 saab_t18b_2;saab_t18b_2;bomber
@@ -1177,6 +1187,7 @@ su_25_558arz;su_25_558arz;strike
 su_25k;su_25k;strike
 su_25t;su_25t;strike
 su_25tm;su_25tm;strike
+su_27;su_27;fighter
 su_6_single;su_6_single;strike
 sunderland_mk3a;sunderland_mk3a;bomber
 sunderland_mk5;sunderland_mk5;bomber
@@ -1211,6 +1222,7 @@ tornado_f3;tornado_f3;fighter
 tornado_gr1;tornado_gr1;strike
 tornado_ids_de_assta1;tornado_ids_de_assta1;strike
 tornado_ids_de_mfg;tornado_ids_de_mfg;strike
+tornado_ids_de_wtd61;tornado_ids_de_wtd61;strike
 tornado_ids_it_mod95;tornado_ids_it_mod95;strike
 tu-1;tu-1;strike
 tu-2;tu-2;bomber
