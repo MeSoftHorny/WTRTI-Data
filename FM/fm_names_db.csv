@@ -561,6 +561,7 @@ il_2_1942_luftwaffe;il-2i;strike;IL-2 (1942) (Germany)
 il_2_37_1943;il_2_37_1943;strike;IL-2-37
 il_2_m82;il_2_m82;strike;IL-2 M-82
 il_2m_1943;il_2m_1943;strike;IL-2M (1943)
+il_8_1944;il_8;strike;IL-8 (1944)
 intruder_mk_1;intruder_mk_1;bomber;Havoc Mk I (Britain)
 itp_m1;itp-m1;fighter;ITP (M-1)
 j1n1_mod11_early;j1n1_mod11_early;bomber;J1N1
@@ -910,7 +911,7 @@ p-47d_22_re;p-47d_22_re;fighter;P-47D-22-RE Thunderbolt
 p-47d_22_re_france;p-47d_22_re;fighter;P-47D-22-RE Thunderbolt (France)
 p-47d_23_ra_china_rocaf;p-47d_23_re;fighter;P-47D-23-RA Thunderbolt (China)
 p-47d_23_re;p-47d_23_re;fighter;P-47D-23 RE Thunderbolt (Britain)
-p-47d_30_china;p-47d-28;fighter;P-47D-30 Thunderbolt (China)
+p-47d_30_china;p-47d-30;fighter;P-47D-30 Thunderbolt (China)
 p-47d_30_italy;p-47d-30;fighter;P-47D-30 Thunderbolt (Britain)
 p-47d_luftwaffe;p-47d;fighter;P-47D Thunderbolt (Germany)
 p-47d_ussr;p-47d_ussr;fighter;P-47D-27 Thunderbolt (USSR)
