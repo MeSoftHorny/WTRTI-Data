@@ -405,13 +405,13 @@ fiat_g91_y;fiat_g91_y;fighter;G.91 Y
 fiat_g91_ys;fiat_g91_ys;fighter;G.91 YS
 firebrand_tf4;firebrand_tf4;strike;Firebrand TF Mk IV
 firefly_mk1;firefly_mk1;strike;Firefly F Mk I
-firefly_mk4_netherlands;firefly_mk5;strike;Firefly F.Mk.IV
+firefly_mk4_netherlands;firefly_mk5;strike;Firefly F.Mk.IV (Netherlands)
 firefly_mk5;firefly_mk5;strike;Firefly FR Mk V
 fj_4b;fj_4b;strike;FJ-4B Fury
 fj_4b_agm_12b;fj_4b;strike;FJ-4B VMF-232 Fury
 fokker_d21_mod20;fokker_d21_mod20;fighter;Fokker D.XXI (Britain)
 fokker_d21_serie3_finland;fokker_d21_serie3_finland;fighter;Fokker D.XXI Series 3 (Finland)
-fokker_g1a;fokker_g1a;strike;Fokker G.I Mercury
+fokker_g1a;fokker_g1a;strike;Fokker G.I Mercury (Dutch)
 fury_mk1;fury_mk1;fighter;Fury Mk I
 fury_mk2;fury_mk2;fighter;Fury Mk II
 fw-189a-1;fw_189a_1;bomber;Fw 189 A-1
@@ -526,7 +526,7 @@ hunter_f1;hunter_f1;fighter;Hunter F.1
 hunter_f50_sweden;hunter_f4_mk50;fighter;J34
 hunter_f58_switzerland;hunter_f58a;fighter;Hunter F.58 (Germany)
 hunter_f6;hunter_f6;fighter;Hunter F.6
-hunter_f6_holland;hunter_f6_holland;fighter;Hunter F.6
+hunter_f6_holland;hunter_f6_holland;fighter;Hunter F.6 (Netherlands)
 hunter_f9_rhodesia;hunter_f9;fighter;Hunter FGA.9
 hurricane_mk1;hurricane_mk1;fighter;Hurricane Mk I Late
 hurricane_mk1_late;hurricane_mk1_late;fighter;Hurricane Mk I Late
@@ -571,7 +571,7 @@ iar_81c;iar-81c;fighter;IAR-81C
 il-10;il-10;strike;IL-10
 il-10_1946;il-10_1946;strike;IL-10 (1946)
 il-10_1946_china;il-10_1946;strike;IL-10 (1946) (China)
-il-10_1946_hungary;il-10_1946;strike;IL-10 Prduc (Hungary)
+il-10_1946_hungary;il-10_1946;strike;IL-10 Párduc (Hungary)
 il-2i;il-2i;strike;IL-2 (1942)
 il-2m;il-2m;strike;IL-2M type 3
 il-2m_mstitel;il-2m_mstitel;strike;IL-2M "Avenger"
@@ -741,7 +741,7 @@ li-2;li-2;bomber;Li-2
 lightning_f53;lightning_f6;fighter;Lightning F.53
 lightning_f6;lightning_f6;fighter;Lightning F.6
 lincoln_b2;lincoln_b2;bomber;Lincoln B Mk II
-loire_130;loire_130;bomber;Loire 130
+loire_130;loire_130;bomber;Loire 130С
 lynx_ah_mk1;lynx_ah_mk1;helicopter;Lynx AH.Mk.1
 martin_139wc;martin_139wc;bomber;Martin 139WC
 maryland_mk1_france;maryland_mk1;bomber;Martin 167-A3 (France)
@@ -780,11 +780,11 @@ me-163b-0;me-163b-0;fighter;Me 163 B-0
 me-163b;me-163b;fighter;Me 163 B
 me-262a-1a;me-262a-1a;fighter;Me 262 A-1a Schwalbe
 me-262a-1a_early;me-262a-1a_early;strike;Me 262 A-1a/Jabo
-me-262a-1a_u4;me-262a-1a_u4;strike;Me 262 A-1/U4 Pulkzerstrer
+me-262a-1a_u4;me-262a-1a_u4;strike;Me 262 A-1/U4 Pulkzerstörer
 me-262a-2a;me-262a-2a;strike;Me 262 A-2a Sturmvogel
 me-262a1_u1;me-262a_1_u1;strike;Me 262 A-1a/U1
-me-262c-1a;me-262c-1a;fighter;Me 262 C-1a Heimatschtzer I
-me-262c-2b;me-262c-2b;fighter;Me 262 C-2b Heimatschtzer II
+me-262c-1a;me-262c-1a;fighter;Me 262 C-1a Heimatschützer I
+me-262c-2b;me-262c-2b;fighter;Me 262 C-2b Heimatschützer II
 me-410a-1;me-410a-1;strike;Me 410 A-1
 me-410a-1_u2;me-410a-1;fighter;Me 410 A-1/U2
 me-410a-1_u4;me-410a-1_u4;strike;Me 410 A-1/U4
@@ -887,7 +887,7 @@ mirage_f1c;mirage_f1c;fighter;Mirage F1C
 mirage_f1c_200;mirage_f1c_200;fighter;Mirage F1C-200
 mirage_f1ct;mirage_f1c;fighter;Mirage F1CT
 mirage_milan;mirage_milan;fighter;Milan
-morko_morane;morko_morane;fighter;Mrk-Morane
+morko_morane;morko_morane;fighter;Mörkö-Morane
 mosquito_fb_mk18;mosquito_fb_mk18;strike;Mosquito FB Mk XVIII
 mosquito_fb_mk26_china;mosquito_fb_mk6;strike;Mosquito FB.Mk.26 (China)
 mosquito_fb_mk6;mosquito_fb_mk6;strike;Mosquito FB Mk VI
@@ -1027,7 +1027,7 @@ potez_630;potez_630;fighter;Potez 630
 potez_631;potez_631;fighter;Potez 631
 potez_633;potez_633;bomber;Potez 633
 pv_2d;pv_2d;bomber;PV-2D Harpoon
-pyorremyrsky;pyorremyrsky;fighter;VL Pyrremyrsky
+pyorremyrsky;pyorremyrsky;fighter;VL Pyörremyrsky
 q_5_early;q_5_early;strike;Q-5 early
 q_5a;q_5a;strike;Q-5A
 q_5l;q_5l;strike;Q-5L
@@ -1060,7 +1060,7 @@ saab_105oe;saab_105oe;strike;SAAB-105OE
 saab_a21a_3;saab_j21a_1;fighter;A21A-3
 saab_a21rb;saab_a21rb;fighter;A21RB
 saab_a32a;saab_a32a;strike;A32A
-saab_a32a_red_adam;saab_a32a;strike;A32A Rd Adam
+saab_a32a_red_adam;saab_a32a;strike;A32A «Röd Adam»
 saab_aj37;saab_aj37;strike;AJ37 Viggen
 saab_ajs37;saab_ajs37;strike;AJS37 Viggen
 saab_b17a;saab_b17a;bomber;B17A
