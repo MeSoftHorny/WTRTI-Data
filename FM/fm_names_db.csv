@@ -360,6 +360,7 @@ f9f-8;f9f-8;fighter;F9F-8 Cougar
 f_100f_china;f_100f;fighter;F-100F Super Sabre (China)
 f_111a;f_111a;strike;F-111A Aardvark
 f_14a_early;f_14a_early;fighter;F-14A Tomcat (Early)
+f_14a_iriaf;f_14a_iriaf;fighter;F-14A Tomcat (Early) IRIAF (Britain)
 f_14b;f_14b;fighter;F-14B Tomcat
 f_15a;f_15a;fighter;F-15A Eagle
 f_15a_iaf;f_15a;fighter;F-15A Baz (Israel)
@@ -1003,6 +1004,7 @@ pbj_1j;pbj_1j;strike;PBJ-1J
 pbj_1j_1;b_25j_20;bomber;PBJ-1J Mitchell
 pbm_1;pbm_1;bomber;PBM-1 "Mariner"
 pbm_3;pbm_3;bomber;PBM-3 "Mariner"
+pbm_5a;pbm_5a;bomber;PBM-5A "Mariner"
 pby-5;pby-5;bomber;PBY-5 Catalina
 pby-5a;pby-5a;bomber;PBY-5A Catalina
 pby-5a_late_france;pby-5a_late_france;bomber;PBY-5A Catalina (Late) (France)
