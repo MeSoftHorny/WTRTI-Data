@@ -48,6 +48,7 @@ a_7e_thailand;a_7e;strike;A-7E Corsair II (Thailand)
 a_7k;a_7k;strike;A-7K Corsair II
 ab_205a_1;ab_205a_1;helicopter;AB 205 A-1
 ah_1f;ah_1f;helicopter;AH-1F
+ah_1f_event;ah_1f;helicopter;AH-1F
 ah_1f_iaf;ah_1f_iaf;helicopter;AH-1F Tzefa D/E (Israel)
 ah_1g;ah_1g;helicopter;AH-1G
 ah_1g_iaf;ah_1g_iaf;helicopter;AH-1G Tzefa A (Israel)
@@ -407,6 +408,7 @@ f_16d_block_40_barak_2_missile_test;f_16d_block_40_barak_2;fighter;F-16D Block 4
 f_20a;f_20a;fighter;F-20A Tigershark
 f_222_2;f_222_2;bomber;F.222.2
 f_47n_25_re_china;f_47n_25_re_china;fighter;F-47N-25-RE Thunderbolt (China)
+f_4e_event;f-4e;fighter;F-4E Phantom II
 fa_18a;fa_18a;fighter;F/A-18A Hornet
 fa_18c_early;fa_18c_early;fighter;F/A-18C (Early) Hornet
 fa_18c_finland;fa_18c_finland;fighter;F-18C Hornet (Finland)
@@ -441,6 +443,7 @@ fj_4b;fj_4b;strike;FJ-4B Fury
 fj_4b_agm_12b;fj_4b;strike;FJ-4B VMF-232 Fury
 fokker_d21_mod20;fokker_d21_mod20;fighter;Fokker D.XXI
 fokker_d21_serie3_finland;fokker_d21_serie3_finland;fighter;Fokker D.XXI Series 3 (Finland)
+fokker_d7;fokker_d7;fighter;Fokker D.VII
 fokker_g1a;fokker_g1a;strike;Fokker G.I Mercury (Dutch)
 fury_mk1;fury_mk1;fighter;Fury Mk I
 fury_mk2;fury_mk2;fighter;Fury Mk II
@@ -449,7 +452,7 @@ fw-190a-1;fw-190a-1;fighter;Fw 190 A-1
 fw-190a-4;fw-190a-4;fighter;Fw 190 A-4
 fw-190a-5;fw-190a-5;fighter;Fw 190 A-5/U12
 fw-190a-5_cannons;fw-190a-5_cannons;fighter;Fw 190 A-5
-fw-190a-5_cannons_tutorial;fw-190a-5_cannons_tutorial;fighter;Fw 190 A-5
+fw-190a-5_cannons_tutorial;fw-190a-5_cannons;fighter;Fw 190 A-5
 fw-190a-5_japan;fw-190a-5_cannons;fighter;Fw 190 A-5 (Japan)
 fw-190a-5_u2;fw-190a-5_u2;fighter;Fw 190 A-5/U2
 fw-190a-8;fw-190a-8;fighter;Fw 190 A-8
@@ -547,6 +550,7 @@ hornet_mk3;hornet_mk3;fighter;Hornet Mk.III
 hp52_hampden_mk1_late;hp52_hampden_mk1_late;bomber;Hampden Mk I
 hp52_hampden_tbmk1;hp52_hampden_tbmk1;bomber;Hampden TB Mk I
 hp52_hampden_tbmk1_ussr_utk1;hp52_hampden_tbmk1_ussr_utk1;bomber;Hampden TB Mk I UTK-1 (USSR)
+hp_12;hp_12;bomber;H.P.12
 hs-123a-1;hs_123a_1;bomber;Hs 123 A-1
 hs-123a-1_china;hs_123a_1;bomber;Hs 123 A-1 (China)
 hs-129b-2;hs-129b-2;strike;Hs 129 B-2
@@ -561,7 +565,7 @@ hunter_f6;hunter_f6;fighter;Hunter F.6
 hunter_f6_holland;hunter_f6_holland;fighter;Hunter F.6 (Netherlands)
 hunter_f9_rhodesia;hunter_f9;fighter;Hunter FGA.9
 hurricane_mk1;hurricane_mk1;fighter;Hurricane Mk I Late
-hurricane_mk1_late;hurricane_mk1_late;fighter;Hurricane Mk I Late
+hurricane_mk1_late;hurricane_mk1;fighter;Hurricane Mk I Late
 hurricane_mk1_late_ep;hurricane_mk1;fighter;Hurricane Mk.I/L FAA M
 hurricane_mk1_late_finland;hurricane_mk1;fighter;Hurricane Mk I Late (Finland)
 hurricane_mk1b;hurricane_mk1b;fighter;Sea Hurricane Mk IB
@@ -839,6 +843,7 @@ meteor_fmk8;meteor_fmk8;fighter;Meteor F Mk 8 G.41K
 meteor_fmk8_belgium;meteor_fmk8_belgium;fighter;Meteor F Mk.8 (Belgium)
 meteor_fmk8_iaf;meteor_fmk8;fighter;Meteor F Mk.8 (Israel)
 meteor_fmk8_reaper;meteor_fmk8_reaper;fighter;Meteor F Mk.8 Reaper
+meteor_frmk9_iaf;meteor_frmk9_iaf;fighter;Meteor FR Mk.9 (Israel)
 meteor_nfmk13;meteor_nfmk13;fighter;Meteor NF Mk.13 (Israel)
 mh_60l_dap;mh_60l_dap;helicopter;MH-60L DAP Black Hawk
 mi_24a;mi_24a;helicopter;Mi-24A
@@ -878,6 +883,7 @@ mig-19j_6a;mig-19j_6a;fighter;J-6A
 mig-19pt;mig-19;fighter;MiG-19PT
 mig-19s;mig-19s;fighter;MiG-19S (Germany)
 mig-21_bis;mig-21_bis;fighter;MiG-21bis
+mig-21_bis_event;mig-21_bis;fighter;MiG-21bis
 mig-21_bis_lazur;mig-21_bis_lazur;fighter;MiG-21bis "Lazur-M" (Germany)
 mig-21_bis_sau;mig-21_bis;fighter;MiG-21bis-SAU (Germany)
 mig-21_bis_sau_hungary;mig-21_bis;fighter;MiG-21bis-SAU (Hungary)
@@ -1171,13 +1177,13 @@ shackleton_mr_mk_2;shackleton_mr_mk_2;bomber;Shackleton MR.Mk.2
 sm_79_1936;sm_79_1936;bomber;S.M.79 Sparviero serie 1 (1936) (Germany)
 sm_79_1936_italy;sm_79_1936;bomber;S.M.79 Sparviero serie 1 (1936) (Italy)
 sm_79_1937;sm_79_1937;bomber;S.M.79 Sparviero serie 4 (1937) (Germany)
-sm_79_1937_italy;sm_79_1937_italy;bomber;S.M.79 Sparviero serie 4 (1937) (Italy)
+sm_79_1937_italy;sm_79_1937;bomber;S.M.79 Sparviero serie 4 (1937) (Italy)
 sm_79_1939;sm_79_1939;bomber;S.M.79 Sparviero serie 8 (1939) (Germany)
 sm_79_1939_italy;sm_79_1939;bomber;S.M.79 Sparviero serie 8 (1939) (Italy)
 sm_79_1941;sm_79_1941;bomber;S.M.79 Sparviero AS (1941) (Germany)
 sm_79_1941_italy;sm_79_1941;bomber;S.M.79 Sparviero AS (1941) (Italy)
 sm_79_1942;sm_79_1942;bomber;S.M.79 Sparviero bis/N (1942) (Germany)
-sm_79_1942_italy;sm_79_1942_italy;bomber;S.M.79 Sparviero bis/N (1942) (Italy)
+sm_79_1942_italy;sm_79_1942;bomber;S.M.79 Sparviero bis/N (1942) (Italy)
 sm_79_1943;sm_79_1943;bomber;S.M.79 Sparviero bis/T.M (1943) (Germany)
 sm_79_1943_italy;sm_79_1943;bomber;S.M.79 Sparviero bis/T.M (1943) (Italy)
 sm_79_iar;sm_79_iar;bomber;S.M.79 Sparviero B (1936) (Germany)
@@ -1193,6 +1199,7 @@ so_4050_vautour_2n_iaf;so_4050_vautour_2n;bomber;Vautour IIN (Israel)
 so_4050_vautour_2n_late;so_4050_vautour_2n_late;fighter;S.O.4050 Vautour IIN (Late)
 so_8000_narval;so_8000_narval;fighter;S.O.8000 Narval
 soc_1;soc_1;bomber;SOC-1 Seagull
+spad_13;spad_13;fighter;SPAD S.XIII
 spitfire_f22;spitfire_f22;fighter;Spitfire F Mk 22
 spitfire_f24;spitfire_f24;fighter;Spitfire F Mk 24
 spitfire_fr_mk14e;spitfire_fr_mk14e;fighter;Prendergast's Spitfire FR Mk XIVe
@@ -1200,7 +1207,7 @@ spitfire_fr_mk14e_belgium;spitfire_fr_mk14e;fighter;Spitfire FR Mk XIVe (Belgium
 spitfire_ix;spitfire_ix;fighter;Spitfire LF Mk IX
 spitfire_ix_early;spitfire_ix_early;fighter;Spitfire F Mk IX
 spitfire_ix_plagis;spitfire_ix;fighter;Plagis' Spitfire LF Mk IXc
-spitfire_ix_tutorial;spitfire_ix_tutorial;fighter;Spitfire LF Mk IX
+spitfire_ix_tutorial;spitfire_ix;fighter;Spitfire LF Mk IX
 spitfire_ix_usa;spitfire_ix;fighter;Spitfire LF Mk IXc (USA)
 spitfire_ix_ussr;spitfire_ix;fighter;Spitfire Mk IXc (USSR)
 spitfire_lf_mk9e_iaf;spitfire_ix_cw;fighter;Spitfire LF Mk IX (Clipped Wings) (Israel)
@@ -1405,3 +1412,4 @@ z_19;z_19;helicopter;Z-19
 z_19e;z_19e;helicopter;Z-19E
 z_9w;z_9w;helicopter;Z-9W
 z_9wa;z_9wa;helicopter;Z-9WA
+zeppelin;zeppelin;bomber;Zeppelin LZ 62 (L 30) R
