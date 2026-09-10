@@ -453,6 +453,7 @@ f_16d_block_40_barak_2;f_16d_block_40_barak_2;fighter;F-16D Block 40 Barak II
 f_16d_block_40_barak_2_killstreak;f_16d_block_40_barak_2;fighter;F-16D Block 40 Barak II (f_16d_block_40_barak_2_killstreak)
 f_16d_block_40_barak_2_missile_test;f_16d_block_40_barak_2;fighter;F-16D Block 40 Barak II (Missile Test)
 f_16i_sufa;f_16i_sufa;fighter;F-16I Sufa
+f_16xl;f_16xl;fighter;F-16XL-1
 f_20a;f_20a;fighter;F-20A Tigershark
 f_222_2;f_222_2;bomber;F.222.2
 f_2a;f_2a;fighter;F-2A
@@ -1383,6 +1384,8 @@ su-8;su-8;strike;Su-8
 su-9;su-9;fighter;Su-9
 su_17m2;su_17m2;strike;Su-17M2
 su_17m4;su_17m4;strike;Su-17M4
+su_17m4_china_killstreak;su_17m4;strike;Su-17M4 (China)
+su_17m4_killstreak;su_17m4;strike;Su-17M4 (su_17m4_killstreak)
 su_22m3;su_22m3;strike;Su-22M3
 su_22m3_hungary;su_22m3;strike;Su-22M3 (Hungary)
 su_22m4;su_22m4;strike;Su-22M4 (Germany)
